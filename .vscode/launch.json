@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "Node-API/main.js"
+            "program": "Node-API/server.js"
         }
     ]
 }
