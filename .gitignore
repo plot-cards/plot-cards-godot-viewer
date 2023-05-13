@@ -1,18 +1,18 @@
 ### Godot
 
 # Godot 4+ specific ignores
-.godot/
+Godot-Project/.godot/
 
 # Godot-specific ignores
-.import/
+Godot-Project/.import/
 
 # Imported translations (automatically generated from CSV files)
-*.translation
+Godot-Project/*.translation
 
 # Mono-specific ignores
-.mono/
-data_*/
-mono_crash.*.json
+Godot-Project/.mono/
+Godot-Project/data_*/
+Godot-Project/mono_crash.*.json
 
 # Exported godot form testing
 Node-API/godot-export
